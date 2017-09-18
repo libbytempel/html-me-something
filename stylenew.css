@@ -1,0 +1,16 @@
+body { 
+	line-height: 1.88889;
+    background: rgba(150, 0, 255, 0.6);
+    background-repeat;
+	margin: 10px; 
+	padding: 15px;15px;15px;15px
+	}
+p { 
+	margin-top: 10px; 
+	text-align: justify;
+    }
+img {
+  border-style: none;
+  max-width: 400px;
+  min-width: 400px
+}
